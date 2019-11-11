@@ -28,8 +28,8 @@ class TreeHeight:
     >>> #         1
     >>> #        /|
     >>> #       3 4
-    >>> #      /  |
-    >>> #     0   2
+    >>> #        / \
+    >>> #       0   2
     >>> #
     >>> tree = TreeHeight()
     >>> tree.n = 5
